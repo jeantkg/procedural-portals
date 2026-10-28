@@ -1,0 +1,13 @@
+/target/
+/dist/
+/.local/
+/tools/gpu-check/target/
+/plan.md
+/docs/live-terrain.md
+/legacy/
+/tools/bds-probe.js
+/tools/bds_probe.py
+/tools/stage_test_client.py
+/tools/gpu-check/
+__pycache__/
+*.pyc

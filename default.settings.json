@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "cached_terrain": true,
+  "search_distance": 48.0,
+  "quality": "medium",
+  "seed": 1337,
+  "ambient_light": 10,
+  "max_portals": 1,
+  "show_status": true
+}

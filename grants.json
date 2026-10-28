@@ -1,0 +1,8 @@
+{
+  "player_state": true,
+  "terrain": true,
+  "settings": true,
+  "world_draw": true,
+  "render_material": true,
+  "hud": true
+}
